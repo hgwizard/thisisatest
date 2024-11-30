@@ -1,0 +1,1 @@
+this file is example that i am understanding how text file works.
